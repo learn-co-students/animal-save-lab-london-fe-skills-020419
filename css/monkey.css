@@ -8,5 +8,20 @@ html {
   right: 120px;
 }
 
+@media (min-width:406px) {
+  #monkey {
+    position: absolute;
+    top: 0px;
+    right 120px;
+  }
+}
+
+@media (min-width:1170px) {
+  #monkey {
+    position: absolute;
+    top: 550px;
+    right: 120px;
+  }
+}
 /* Write your solution here */
 
