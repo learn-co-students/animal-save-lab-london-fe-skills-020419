@@ -9,4 +9,9 @@ html {
 }
 
 /* Write your solution here */
-
+@media (min-width: 1450px) {
+  #ostrich {
+    bottom: 100px;
+    background: green;
+  }
+}
