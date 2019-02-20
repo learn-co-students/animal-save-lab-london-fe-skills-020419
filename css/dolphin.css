@@ -18,5 +18,14 @@ html {
   right: 0;
 }
 
+
+@media (min-width:642px) and (max-width:1090px) {
+#dolphin {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    transform: rotate(0.8turn);
+  }
+}
 /* Write your solution here */
 
