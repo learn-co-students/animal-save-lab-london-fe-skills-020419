@@ -6,7 +6,16 @@ html {
   position: absolute;
   top: 100px;
   right: 0;
+  transform: rotate(20deg)
 }
 
 /* Write your solution here */
+
+@media (min-width: 1458px) {
+ #bear {
+   position:absolute;
+   top: 100px;
+   left:50px;
+ } 
+}
 

@@ -10,3 +10,9 @@ html {
 
 /* Write your solution here */
 
+@media (max-width:1198px) {
+  #monkey {
+  position: absolute;
+  top: 2px;
+  rotatw
+}
